@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "K:\\ConnectGamerMobile\\build\\image_picker_android\\intermediates\\res\\merged\\profile\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\thinh\\.gradle\\caches\\transforms-2\\files-2.1\\8e2dbe9b4db7828b24af0ef7e7a81223\\core-1.8.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "K:\\ConnectGamerMobile\\build\\image_picker_android\\intermediates\\incremental\\mergeProfileResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\thinh\\.gradle\\caches\\transforms-2\\files-2.1\\8e2dbe9b4db7828b24af0ef7e7a81223\\core-1.8.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

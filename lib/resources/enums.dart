@@ -1,0 +1,5 @@
+enum SupportedGame {
+  apex,
+  pubg
+}
+

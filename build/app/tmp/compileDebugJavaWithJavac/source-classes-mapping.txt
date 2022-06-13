@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+vn/helloanhem/connectgamermobile/MainActivity.java
+ vn.helloanhem.connectgamermobile.MainActivity
+vn/helloanhem/connectgamermobile/BuildConfig.java
+ vn.helloanhem.connectgamermobile.BuildConfig

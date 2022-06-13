@@ -1,0 +1,169 @@
+{
+  "@TIME": {
+    "description": "Strings for time"
+  },
+  "hour": "giờ",
+  "hours": "giờ",
+  "minute": "phút",
+  "minutes": "phút",
+  "day": "ngày",
+  "days": "ngày",
+
+  "@LOGIN_PAGE": {
+    "description": "Strings for login page"
+  },
+  "usernameHintText": "Tên đăng nhập",
+  "passwordHintText": "Mật khẩu",
+  "rememberMeCheckBoxText": "Ghi nhớ tài khoản",
+  "forgotPassLinkText": "Quên mật khẩu?",
+  "loginBtnText": "Đăng nhập",
+  "toSignUpNormalText": "Chưa có tài khoản?",
+  "toSignUpLinkText": "Đăng ký",
+  "loginDividerText": "Hoặc tiếp tục với",
+
+  "@SIGN_UP_PAGE": {
+    "description": "Strings for sign up page"
+  },
+  "emailHintText": "Email",
+  "reenterPassHintText": "Nhập mật khẩu lần nữa",
+  "signUpBtnText": "Đăng ký",
+  "toLoginNormalText": "Đã có tài khoản?",
+  "toLoginLinkText": "Đăng nhập",
+
+  "@POST_PAGE": {
+    "description": "Strings for post page"
+  },
+  "createPostBtnText": "Tạo bài đăng",
+  "createPostTitle": "Tạo bài đăng",
+  "commentsBtnText": "Nhận xét",
+  "shareBtnText": "Chia sẻ",
+  "createPostHintText": "Viết gì đó",
+
+  "@CHAT_PAGE": {
+    "description": "strings for chat page"
+  },
+  "searchBtnText": "Tìm kiếm",
+  "searchHintText": "Tìm kiếm",
+  "chatHomePageTitle": "Trò chuyện",
+
+  "@SEARCH_PAGE": {
+    "description": "strings for search page"
+  },
+  "searchUsernameBtnText": "Tìm kiếm tên người dùng",
+  "searchUsernameHintText": "Tìm kiếm tên người dùng",
+  "filterTitle": "Bộ lọc",
+  "lastOnlineText": "Lần đăng nhập cuối",
+  "onlineText": "Đang trực tuyến",
+  "rankTitle": "Hạng",
+
+  "@PROFILE_PAGE": {
+    "description": "Strings for profile page"
+  },
+  "informationTabTitle": "Thông tin",
+  "postTabTitle": "Bài đăng",
+  "gameTabTitle": "Trò chơi",
+  "linkGameTitle": "Kết nối tài khoản game",
+
+  "@NOTIFICATION_PAGE": {
+    "description": "Strings for notification page"
+  },
+  "notificationTitle": "Thông báo",
+  "acceptBtnText": "Chấp nhận",
+  "declineBtnText": "Từ chối",
+  "otherFriendRequestText": "đã gửi cho bạn yêu cầu kết bạn",
+
+  "@SETTINGS_PAGE": {
+    "description": "Strings for settings page"
+  },
+  "settingsTitle": "Cài đặt",
+  "displayTitle": "Hiển thị",
+  "securityTitle": "Bảo mật",
+  "changePasswordBtnText": "Đổi mật khẩu",
+  "themesBtnText": "Màu chủ đề",
+  "logOutBtnText": "Đăng xuất",
+  "chooseThemeTitle": "Chọn một màu chủ đề",
+
+  "@APEX_LEGENDS_PAGE": {
+    "description": "Strings for apex legends page"
+  },
+  "overview": "Tổng quan",
+  "currentRank": "Xếp hạng hiện tại",
+  "battleRoyalTitle": "Đấu trường royal",
+  "arenasTitle": "Đấu trường",
+  "score" : "Điểm",
+  "kill": "Giết",
+  "headshot": "Headshot",
+
+  "@PUBG_PAGE": {
+    "description": "Strings for pubg page"
+  },
+  "tpp": "TPP",
+  "fpp": "FPP",
+  "rankedOverView": "Tổng quan xếp hạng",
+  "bestRankPoint": "Điểm xếp hạng cao nhất",
+  "detailsInfo": "Thông tin chi tiết",
+  "totalWin": "Tổng số lần chiến thắng",
+  "totalLose": "Tổng số lần thất bại",
+  "averageWinRate": "Tỉ lệ thắng trung bình",
+  "averageTop10Rate": "Tỉ lệ trong top 10 trung bình",
+  "totalKill": "Tổng số kẻ địch giết được",
+  "totalHeadshotKills": "Tổng số kẻ địch bị headshot",
+  "averageHeadshotRate": "Tỉ lệ headshot trung bình",
+  "longestKill": "Khoảng cách giết xa nhất",
+  "totalTop10s": "Tổng số lần trong top 10",
+
+  "@FORTNITE_PAGE": {
+    "description": "Strings for fortnite page"
+  },
+  "duo": "Duo",
+  "ltm": "LTMs",
+  "overall": "Tổng quan",
+  "top3": "Top 3",
+  "top5": "Top 5",
+  "top6": "Top 6",
+  "top10": "Top 10",
+  "top12": "Top 12",
+  "top25": "Top 25",
+  "scorePerMin": "Điểm mỗi phút",
+  "scorePerMatch": "Điểm mỗi trận",
+  "killPerMin": "Kẻ địch giết được mỗi phút",
+  "killPerMatch": "Kẻ địch giết được mỗi trận",
+  "deaths": "Số lần chết",
+  "kd": "KD",
+  "matches": "Số trận",
+  "minutesPlayed": "Số phút đã chơi",
+  "playersOutlived": "Người chơi không thích",
+  "lastModified": "Last Modified",
+
+  "solo" : "Đấu đơn",
+  "squad": "Đấu đội",
+
+  "@ERROR_PAGE": {
+    "description": "Strings for error pages"
+  },
+  "noDataMessage": "Không tìm thấy dữ liệu",
+  "retry": "Thử lại",
+
+  "@FRIEND_PAGE": {
+    "description": "Strings for friend page"
+  },
+  "friendPageTitle": "Bạn bè",
+
+  "createRoomBtnTitle": "TẠO",
+
+  "scrollPagingErrorDefaultMessage": "Có lỗi xảy ra",
+
+  "addingChatRoomText": "Đang tạo phòng chat mới",
+  "addChatRoomFail": "Không thể tạo phòng chat mới",
+  "addChatRoomSuccess": "Phòng chat mới đã được tạo",
+  "addedToChatRoom": "Bạn đã được thêm vào phòng chat",
+
+  "createChatRoomDialogTitle": "Tạo phòng chat",
+  "roomNameFieldHint": "Nhập tên phòng",
+  "roomNameFieldError": "Tên phòng không được trống",
+
+  "cancelBtnTitle": "Hủy",
+  "okBtnTitle": "Ok",
+
+  "today": "Hôm nay"
+}

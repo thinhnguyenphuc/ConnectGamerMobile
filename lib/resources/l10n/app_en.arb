@@ -1,0 +1,218 @@
+{
+  "@TIME": {
+    "description": "Strings for time"
+  },
+  "hour": "hour",
+  "hours": "hours",
+  "minute": "minute",
+  "minutes": "minutes",
+  "day": "day",
+  "days": "days",
+
+  "@LOGIN_PAGE": {
+    "description": "Strings for login page"
+  },
+  "usernameHintText": "Username",
+  "passwordHintText": "Password",
+  "rememberMeCheckBoxText": "Remember me",
+  "forgotPassLinkText": "Forgot password?",
+  "loginBtnText": "Login",
+  "toSignUpNormalText": "Don't have an account?",
+  "toSignUpLinkText": "Sign Up",
+  "loginDividerText": "Or continued with",
+
+  "@SIGN_UP_PAGE": {
+    "description": "Strings for sign up page"
+  },
+  "emailHintText": "Email",
+  "reenterPassHintText": "Enter password again",
+  "signUpBtnText": "Sign Up",
+  "toLoginNormalText": "Already have an account?",
+  "toLoginLinkText": "Login",
+
+  "@POST_PAGE": {
+    "description": "Strings for post page"
+  },
+  "createPostBtnText": "Create a post",
+  "createPostTitle": "Create a post",
+  "commentsBtnText": "Comments",
+  "shareBtnText": "Share",
+  "createPostHintText": "Write something",
+
+  "@CHAT_PAGE": {
+    "description": "strings for chat page"
+  },
+  "chatHomePageTitle": "Chat",
+  "searchBtnText": "Search",
+  "searchHintText": "Search",
+  "searchRoomHintText": "Search room",
+
+  "@SEARCH_PAGE": {
+    "description": "strings for search page"
+  },
+  "searchUsernameBtnText": "Search username",
+  "searchUsernameHintText": "Search username",
+  "filterTitle": "Filter",
+  "lastOnlineText": "Last online",
+  "onlineText": "Online",
+  "rankTitle": "Rank",
+
+  "@PROFILE_PAGE": {
+    "description": "Strings for profile page"
+  },
+  "informationTabTitle": "Information",
+  "postTabTitle": "Posts",
+  "gameTabTitle": "Games",
+  "linkGameTitle": "Link game account",
+
+  "@NOTIFICATION_PAGE": {
+    "description": "Strings for notification page"
+  },
+  "notificationTitle": "Notifications",
+  "acceptBtnText": "Accept",
+  "declineBtnText": "Decline",
+  "otherFriendRequestText": "sent you a friend request",
+
+  "@SETTINGS_PAGE": {
+    "description": "Strings for settings page"
+  },
+  "settingsTitle": "Settings",
+  "displayTitle": "Display",
+  "securityTitle": "Security",
+  "changePasswordBtnText": "Change password",
+  "themesBtnText": "Themes",
+  "logOutBtnText": "Log out",
+  "chooseThemeTitle": "Choose a theme",
+
+  "@APEX_LEGENDS_PAGE": {
+      "description": "Strings for apex legends page"
+    },
+    "overview": "Overview",
+    "currentRank": "Current Rank",
+    "battleRoyalTitle": "Battle Royal",
+    "arenasTitle": "Arenas",
+    "score" : "Score",
+    "kill": "Kills",
+    "headshot": "Headshot",
+
+  "@PUBG_PAGE": {
+    "description": "Strings for pubg page"
+  },
+  "tpp": "TPP",
+  "fpp": "FPP",
+  "rankedOverView": "Ranked Overview",
+  "bestRankPoint": "Best Rank Point",
+  "detailsInfo": "Details Account Info",
+  "totalWin": "Total Win",
+  "totalLose": "Total Loss",
+  "averageWinRate": "Average Win Rate",
+  "averageTop10Rate": "Average Top 10 Rate",
+  "totalKill": "Total Kill",
+  "totalHeadshotKills": "Total Headshot Kills",
+  "averageHeadshotRate": "Average Headshot Rate",
+  "longestKill": "Longest Kill",
+  "totalTop10s": "Total Top 10s",
+
+  "@FORTNITE_PAGE": {
+    "description": "Strings for fortnite page"
+  },
+  "duo": "Duo",
+  "ltm": "LTMs",
+  "overall": "Overall",
+  "top3": "Top 3",
+  "top5": "Top 5",
+  "top6": "Top 6",
+  "top10": "Top 10",
+  "top12": "Top 12",
+  "top25": "Top 25",
+  "scorePerMin": "Score per minute",
+  "scorePerMatch": "Score per match",
+  "killPerMin": "Kill per minute",
+  "killPerMatch": "Kill per match",
+  "deaths": "Deaths",
+  "kd": "KD",
+  "matches": "matches",
+  "minutesPlayed": "Minutes Played",
+  "playersOutlived": "Players Outlived",
+  "lastModified": "Last Modified",
+
+
+  "solo" : "SOLO",
+  "squad": "SQUAD",
+
+  "@ERROR_PAGE": {
+    "description": "Strings for error pages"
+  },
+  "noDataMessage": "No data found",
+  "retry": "Retry",
+
+  "@FRIEND_PAGE": {
+    "description": "Strings for friend page"
+  },
+  "friendPageTitle": "Friends",
+
+  "createRoomBtnTitle": "CREATE",
+
+  "scrollPagingErrorDefaultMessage": "Something went wrong",
+
+  "addingChatRoomText": "Adding new chat room",
+  "addChatRoomFail": "Can't create new chat room",
+  "addChatRoomSuccess": "New chat room is created",
+  "addedToChatRoom": "You was added to a chat room",
+
+  "createChatRoomDialogTitle": "Create chat room",
+  "roomNameFieldHint": "Enter room's name",
+  "roomNameFieldError": "Room's name must not be empty",
+
+  "cancelBtnTitle": "Cancel",
+  "okBtnTitle": "Ok",
+
+  "today": "Today",
+
+  "chatRoomMemberBtnTitle": "Chat room members",
+  "exitRoomTitle": "Exit room",
+  "chatRoomMemberTitle": "Members",
+  "addBtnTitle": "Add",
+  "removeMemberFromRoomTitle": "Remove member",
+
+  "noMessages": "No messages yet",
+  "sendMessageError": "Oops! Can't send your message",
+  "resendMessageDialogTitle": "Resend message",
+  "editChatRoomNameDialogTitle": "Edit chat room name",
+
+  "roomInfoChangeMessage": "changed info",
+
+  "changeRoomNameFail": "Can't change room name",
+  "roomNameFieldError2": "New room name must be different",
+
+  "newUsersInChatRoomMessage": "New members was added to room",
+  "removeUsersFromChatRoomMessage": "Members was removed from room",
+  "addedToChatRoomMessage": "You was added to this chat room",
+
+  "addUsersToChatRoomFail": "Can't add members to chat room",
+  "removeUsersFromChatRoomFail": "Can't remove members from chat room",
+
+  "editingUsersInChatRoomMessage": "Editing members",
+
+  "kickedFromRoomMessage": "You was kicked from room",
+
+  "errorDialogTitle": "An error occurred",
+
+  "friendRequestTitle": "Friend Requests",
+
+  "friendRequestAcceptSuccess1": "You and",
+  "friendRequestAcceptSuccess2": "have became friends",
+  "friendRequestAcceptFail": "Can't accept friend request. Please try again later",
+  "friendRequestDeclineFail": "Can't decline friend request. Please try again later",
+
+  "profileTitle": "Profile",
+
+  "notRoomMasterMessage": "You're not the room master",
+
+  "newChatRoomNotificationTitle": "New chat room is created",
+  "newChatRoomNotificationBody": "",
+  "youText": "You",
+
+  "friendRequestAcceptedMessage": "has accepted your friend request",
+  "friendRequestReceivedMessage": "sent you a friend request"
+}
